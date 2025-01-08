@@ -1,1 +1,1 @@
-# tech_odev
+project app done power bi and mssql
